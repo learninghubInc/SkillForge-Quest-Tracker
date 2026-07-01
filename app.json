@@ -1,1 +1,24 @@
-
+{
+  "expo": {
+    "name": "SkillForge: Quest Tracker",
+    "slug": "skillForge:quest tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#121212"
+      },
+      "package": "com.forge.questtracker",
+      
+    }
+  }
+}
